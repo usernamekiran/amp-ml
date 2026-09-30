@@ -3,3 +3,6 @@ venv/
 __pycache__/
 *.py[cod]
 .env
+
+## other files
+config/ampdb_config.py
