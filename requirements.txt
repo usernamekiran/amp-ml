@@ -1,0 +1,10 @@
+# requirements for local machine
+# not for server
+pymysql
+pandas
+numpy
+scikit-learn # needs to be installed from FreeBSD ports; currently conflicts when installed via pip
+joblib
+matplotlib
+seaborn
+pytorch
