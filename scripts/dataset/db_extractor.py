@@ -7,12 +7,6 @@ from ampdb_config import db_config
 OUTPUT_FILE = "confirmed_amp_urls.csv"
 LIMIT = 1000
 
-"""
-
-amp. .amp amp_articleshow /amp/
-
-"""
-
 def main():
     connection = pymysql.connect(**db_config)
 
