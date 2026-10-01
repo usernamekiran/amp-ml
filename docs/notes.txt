@@ -1,0 +1,4 @@
+nomenclature:
+
+- S00 = synthetic URLs
+- P00 = real life URLs, either deleted from fetched/resolved files, or added to db after inserting here
