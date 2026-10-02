@@ -4,6 +4,7 @@ pymysql
 pandas
 numpy
 scikit-learn # needs to be installed from FreeBSD ports; currently conflicts when installed via pip
+    # python3.12 -m venv --system-site-packages venv
 joblib
 matplotlib
 seaborn
