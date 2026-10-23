@@ -6,4 +6,15 @@
 
 - 2026-10-09 changed training method, utilises the database with +100k vetted entries.
   - `train_hard_negatives`
-  - the increased iput data imporoved the accuracy drastically.
+  - the increased input/training data imporoved the accuracy drastically.
+  
+- 2026-10-13
+  - decided to consolidate models, and training data.
+
+- 2026-10-25
+  - consolidated data:
+    - for false positives: `false_positives` table
+    - for positive/confirmed identification: `fetched` table.
+      - `confirmed_table` to be created?
+    - for pairing logic: `fetched` table
+    - for avoiding false negatives: logic from training
