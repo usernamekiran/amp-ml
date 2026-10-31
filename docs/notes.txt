@@ -2,3 +2,16 @@ nomenclature:
 
 - S00 = synthetic
 - P00 = real life, either deleted from fetched/resolved files, or added to db after inserting here
+
+
+- 2026-10-29
+- renamed files/db tables.
+    - current files/tables are:
+        - `false_positives`
+        - `confirmed_amp`
+        - `unusable_can`
+
+
+
+- 2026-10-31
+    - re-vetted the first 2k main db entries manually. batch 1 done
