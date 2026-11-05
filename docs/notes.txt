@@ -15,3 +15,8 @@ nomenclature:
 
 - 2026-10-31
     - re-vetted the first 2k main db entries manually. batch 1 done
+
+- 2026-11-05
+    - UID 2045 done.
+    - `false_positives` table needs to be re-vetted.
+    - separation of tables done.
