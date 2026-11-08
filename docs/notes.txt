@@ -20,3 +20,12 @@ nomenclature:
     - UID 2045 done.
     - `false_positives` table needs to be re-vetted.
     - separation of tables done.
+
+- 2026-11-07
+    - 2.4 done
+    - UID 4103 done.
+    - 3.2 done
+    - UID 100001 to 101045 done
+
+- 2026-11-08
+    - 3.3 still needs to be processed
