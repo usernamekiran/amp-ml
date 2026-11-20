@@ -1,3 +1,14 @@
+## Current status
+
+- production models planned: two models for production-level (different purposes), various models during development/testing phase
+
+- entries vetted: approximately 13,000
+- target entries: 25,000+
+- no futher test runs till 25k entries are vetted manually
+
+
+## Chronological notes
+
 - 2026-09-28 created files required for basic workflow.
   - `train_baseline.py` works as intended.
   - further tuning is required.
